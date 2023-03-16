@@ -1,0 +1,12 @@
+.form{
+    margin: 10px auto 30px;
+}
+.form input {
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    margin-bottom: 10px;
+}
+.form input:focus {
+    border: 1px solid lightblue;
+}
