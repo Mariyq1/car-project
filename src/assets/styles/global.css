@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    background-color: rgb(12, 12, 12);
+    padding: 10px 20px;
+    font-family: 'Golos Text', sans-serif;
+    color: white;
+    text-align: center;
+}
